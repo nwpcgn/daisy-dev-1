@@ -1,0 +1,47 @@
+<svg width="146px" height="160px" viewBox="0 0 146 160">
+	<g id="building4">
+		<path
+			d="M92 0L135 0L135 24L92 24L92 0L92 0Z"
+			id="Path#79"
+			fill="#136FFB"
+			stroke="none" />
+		<path
+			d="M9 0L92 0L92 24L9 24L9 0L9 0Z"
+			id="Path#80"
+			fill="#C1E8FA"
+			stroke="none" />
+		<path
+			d="M0 16L95 16L95 160L0 160L0 16L0 16Z"
+			id="Path#81"
+			fill="#136FFB"
+			stroke="none" />
+		<path
+			d="M92 16L146 16L146 160L92 160L92 16L92 16ZM0 52L92 52L92 56L0 56L0 52L0 52ZM0 85L92 85L92 89L0 89L0 85L0 85ZM0 119L92 119L92 123L0 123L0 119L0 119Z"
+			id="Shape#28"
+			fill="#0C4499"
+			fill-rule="evenodd"
+			stroke="none" />
+		<path
+			d="M4 23L88 23L88 51L4 51L4 23L4 23ZM4 58L88 58L88 83L4 83L4 58L4 58ZM4 91L88 91L88 116L4 116L4 91L4 91ZM5 125L87 125L87 160L5 160L5 125L5 125Z"
+			id="Shape#29"
+			fill="#C1E8FA"
+			fill-rule="evenodd"
+			stroke="none" />
+		<path
+			d="M60 18L63 18L63 51L60 51L60 18L60 18ZM28 18L32 18L32 51L28 51L28 18L28 18ZM60 57L63 57L63 84L60 84L60 57L60 57ZM28 56L32 56L32 84L28 84L28 56L28 56ZM60 90L63 90L63 117L60 117L60 90L60 90ZM28 90L32 90L32 117L28 117L28 90L28 90ZM97 91L141 91L141 116L97 116L97 91L97 91ZM97 58L141 58L141 83L97 83L97 58L97 58ZM97 23L142 23L142 51L97 51L97 23L97 23Z"
+			id="Shape#30"
+			fill="#136FFB"
+			fill-rule="evenodd"
+			stroke="none" />
+		<path
+			d="M31 160L31 140L61 140L61 160"
+			id="Path#82"
+			fill="#FFFFFF"
+			stroke="none" />
+		<path
+			d="M63 160L59 160L59 141L32 141L32 160L29 160L29 138L63 138L63 160L63 160Z"
+			id="Path#83"
+			fill="#136FFB"
+			stroke="none" />
+	</g>
+</svg>

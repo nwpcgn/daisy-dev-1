@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="126px" height="160px" viewBox="0 0 126 160" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="building1">
+    <path d="M10 9L103 9L103 160L10 160L10 9L10 9Z" id="Path#102" fill="#136FFB" stroke="none" />
+    <path d="M103 9L126 9L126 160L103 160L103 9L103 9Z" id="Path#103" fill="#0C4499" stroke="none" />
+    <path d="M20 19L33 19L33 45L20 45L20 19L20 19ZM46 19L60 19L60 45L46 45L46 19L46 19ZM20 52L33 52L33 79L20 79L20 52L20 52ZM46 52L60 52L60 79L46 79L46 52L46 52ZM20 85L33 85L33 111L20 111L20 85L20 85ZM46 85L60 85L60 111L46 111L46 85L46 85ZM76 19L90 19L90 45L76 45L76 19L76 19ZM76 52L90 52L90 79L76 79L76 52L76 52ZM76 85L90 85L90 111L76 111L76 85L76 85Z" id="Shape#40" fill="#BFECFF" fill-rule="evenodd" stroke="none" />
+    <path d="M35 144L67 144L67 160L35 160L35 144L35 144Z" id="Path#104" fill="#0C4499" stroke="none" />
+    <path d="M56 127C62 127 67 133 67 140L67 144L37 144L37 127L56 127L56 127Z" id="Path#105" fill="#FFFFFF" stroke="none" />
+    <path d="M37 127C30.2135 127.524 24.9798 133.193 25 140L25 144L50 144L50 140C50 132.82 44.1797 127 37 127L37 127L37 127ZM0 0L103 0L103 9L0 9L0 0L0 0Z" id="Shape#41" fill="#BFECFF" fill-rule="evenodd" stroke="none" />
+    <path d="M103 0L126 0L126 9L103 9L103 0L103 0Z" id="Path#106" fill="#006AFF" stroke="none" />
+  </g>
+</svg>

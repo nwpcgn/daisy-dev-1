@@ -1,0 +1,48 @@
+<svg
+		width="126"
+		height="160"
+		viewBox="0 0 126 160">
+		<g id="building1">
+			<path
+				d="M 10 9 L 103 9 L 103 160 L 10 160 L 10 9 L 10 9 Z"
+				id="Path#102"
+				fill="#136ffb"
+				stroke="none" />
+			<g data-id="b1-sub">
+				<path
+					d="M 103 9 L 126 9 L 126 160 L 103 160 L 103 9 L 103 9 Z"
+					id="Path#103"
+					fill="#0c4499"
+					stroke="none" />
+			</g>
+			<g data-id="b1-main">
+				<path
+					d="M 20 19 L 33 19 L 33 45 L 20 45 L 20 19 L 20 19 Z M 46 19 L 60 19 L 60 45 L 46 45 L 46 19 L 46 19 Z M 20 52 L 33 52 L 33 79 L 20 79 L 20 52 L 20 52 Z M 46 52 L 60 52 L 60 79 L 46 79 L 46 52 L 46 52 Z M 20 85 L 33 85 L 33 111 L 20 111 L 20 85 L 20 85 Z M 46 85 L 60 85 L 60 111 L 46 111 L 46 85 L 46 85 Z M 76 19 L 90 19 L 90 45 L 76 45 L 76 19 L 76 19 Z M 76 52 L 90 52 L 90 79 L 76 79 L 76 52 L 76 52 Z M 76 85 L 90 85 L 90 111 L 76 111 L 76 85 L 76 85 Z"
+					id="Shape#40"
+					fill="#bfecff"
+					fill-rule="evenodd"
+					stroke="none" />
+			</g>
+			<path
+				d="M 35 144 L 67 144 L 67 160 L 35 160 L 35 144 L 35 144 Z"
+				id="Path#104"
+				fill="#0c4499"
+				stroke="none" />
+			<path
+				d="M 56 127 C 62 127 67 133 67 140 L 67 144 L 37 144 L 37 127 L 56 127 L 56 127 Z"
+				id="Path#105"
+				fill="#ffffff"
+				stroke="none" />
+			<path
+				d="M 37 127 C 30.2 127.5 25 133.2 25 140 L 25 144 L 50 144 L 50 140 C 50 132.8 44.2 127 37 127 L 37 127 L 37 127 Z M 0 0 L 103 0 L 103 9 L 0 9 L 0 0 L 0 0 Z"
+				id="Shape#41"
+				fill="#bfecff"
+				fill-rule="evenodd"
+				stroke="none" />
+			<path
+				d="M 103 0 L 126 0 L 126 9 L 103 9 L 103 0 L 103 0 Z"
+				id="Path#106"
+				fill="#006aff"
+				stroke="none" />
+		</g>
+	</svg>
